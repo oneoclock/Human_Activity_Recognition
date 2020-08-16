@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Human Activity Recognition Visualizations
 
 You can use the [editor on GitHub](https://github.com/oneoclock/Human_Activity_Recognition/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -23,8 +23,10 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+![Image]()
 ```
+
+![Image]()
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
