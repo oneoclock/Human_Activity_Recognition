@@ -4,4 +4,4 @@ A neural network is used in this project to predict a person's activity.
 
 This project also compares the prediction accuracy with a logistic regression model.
 
-An application of this project is to make smart homes smarter by actually recognizing activities performed by the person keeping in mind factors such as time, light, presence ect.
+An application of this project is to make smart homes smarter by actually recognizing activities performed by the person keeping in mind factors such as time, light, presence etc.
